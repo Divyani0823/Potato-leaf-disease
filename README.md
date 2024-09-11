@@ -1,1 +1,1 @@
-# Potato-leaf-disease
+# AgriDiagnose: Potato Leaf
